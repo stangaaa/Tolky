@@ -1,0 +1,50 @@
+#header{
+    border: 2px solid #38618C;
+    background-color: #38618C;
+    height: 200px;
+    width: 100%;
+}
+
+h1 {
+    font-size: 70px;
+    display: inline;
+}
+.link-header {
+    color: blanchedalmond;
+}
+
+#div-simulazione {
+    width: fit-content;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    margin-top: 200px;
+}
+
+.bottoni-simulazione {
+    height: 100px;
+    width: 146px;
+    font-size: larger;
+    border-radius: 10px;
+    background-color: #38618C;
+    color: blanchedalmond;
+}
+
+#div-esercizi {
+    width: fit-content;
+    /*border: 2px solid red;*/
+    display: flex;
+    margin: 0 auto;
+    
+}
+
+.bottoni-esercizi {
+    flex: 1;
+    margin-right: 60px;
+    padding: 30px;
+    font-size: larger;
+    border-radius: 10px;
+    background-color: #38618C;
+    color: blanchedalmond;
+
+
+}
